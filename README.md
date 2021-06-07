@@ -1,12 +1,12 @@
 ## Hi there! 👋 I'm Mike Bussert.
 
-### I'm a former litigation attorney turned full stack developer from southeastern Michigan.
+I'm a former litigation attorney turned full stack developer from southeastern Michigan.
 
-### After practicing law for 6 years, I realized that my true passion and calling is software development; a passion that I have cultivated as a hobby for the last 20 years. The ability to think critically, problem solve, plan & stay organized, and write in a clear and concise manner are all skills and talents that I've developed while working as a lawyer and directly port over to the world of application development.
+After practicing law for 6 years, I realized that my true passion and calling is software development; a passion that I have cultivated as a hobby for the last 20 years. The ability to think critically, problem solve, plan & stay organized, and write in a clear and concise manner are all skills and talents that I've developed while working as a lawyer and directly port over to the world of application development.
 
-### I truly enjoy crafting beautiful and engaging web pages and aplications for users all over the world to consume and benefit from. Which, speaking of craft, I am also a huge craft beer nerd that also dabbles in home brewing. Whether it's to talk sports, craft beer, a web project or code, I'm always available to chat!
+I truly enjoy crafting beautiful and engaging web pages and aplications for users all over the world to consume and benefit from. Which, speaking of craft, I am also a huge craft beer nerd that also dabbles in home brewing. Whether it's to talk sports, craft beer, a web project or code, I'm always available to chat!
 
-### Cheers! 🍺🍺
+Cheers! 🍺🍺
 
 ### Personal Portfolio: [www.mbussert.io](http://www.mbussert.io)
 
