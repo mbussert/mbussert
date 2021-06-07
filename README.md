@@ -6,8 +6,6 @@
 
 ### I truly enjoy crafting beautiful and engaging web pages and aplications for users all over the world to consume and benefit from. Which, speaking of craft, I am also a huge craft beer nerd that also dabbles in home brewing. Whether it's to talk sports, craft beer, a web project or code, I'm always available to chat!
 
-<br>
-
 ### Cheers! 🍺🍺
 
 ### Personal Portfolio: [www.mbussert.io](http://www.mbussert.io)
@@ -25,6 +23,5 @@
 
 #
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbussert&count_private=true&theme=algolia)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbussert&layout=compact&theme=algolia)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbussert&count_private=true&theme=algolia) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbussert&layout=compact&theme=algolia)
 <br>
