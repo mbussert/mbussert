@@ -8,7 +8,7 @@ I truly enjoy crafting beautiful and engaging web pages and aplications for user
 
 Cheers! 🍺🍺
 
-### Personal Portfolio: [www.mbussert.io](http://www.mbussert.io)
+### Personal Portfolio: [www.mbussert.io](https://mbussert.netlify.app/)
 
 <br>
 
